@@ -36,3 +36,8 @@ Documented · MIT licensed · Maintained
 ---
 
 I am Pushing this project file to perform github Devops Labtask
+
+## Screenshots
+
+![devops dashboard](docs/screenshots/app.png)
+
