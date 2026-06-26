@@ -1,13 +1,13 @@
-<div align="center">
+﻿<div align="center">
 
-# 🚀 Devops
+# DevOps Lab Project
 
-**I am Pushing this project file to perform github Devops Labtask**
+**DevOps lab project covering GitHub workflow practice, version control, containerization concepts, and CI/CD learning exercises.**
 
-Documented · MIT licensed · Maintained
+DevOps, GitHub, Docker, Jenkins, CI/CD
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+[![Maintained](https://img.shields.io/badge/Maintained-yes-22c55e?style=for-the-badge)](https://github.com/mafzalkalwardev/devops)
 
 </div>
 
@@ -17,15 +17,27 @@ Documented · MIT licensed · Maintained
 
 ![Application screenshot](docs/screenshots/app.png)
 
+## Overview
 
-## 🐍 Contribution graph
+DevOps lab project covering GitHub workflow practice, version control, containerization concepts, and CI/CD learning exercises.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/devops/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/devops/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/devops/output/snake.svg" />
-</picture>
+## Highlights
 
----
+- Clean repository documentation with a project-specific summary.
+- Screenshot section when captured portfolio media is available.
+- Search-friendly tags for portfolio and GitHub discovery.
+- Maintained by [Muhammad Afzal Kalwar](https://github.com/mafzalkalwardev).
 
-I am Pushing this project file to perform github Devops Labtask
+## Quick Start
+
+Clone the repository and review the source files for setup or usage details:
+
+``bash
+git clone https://github.com/mafzalkalwardev/devops.git
+cd devops
+``
+
+## Author
+
+Muhammad Afzal Kalwar - Full-Stack Developer and Python Automation Engineer  
+Portfolio: https://mafzalkalwardev.github.io
